@@ -1,0 +1,12 @@
+extensions/build/vs2013win32/intermediate/
+extensions/externals/build/vs2013win32/intermediate/*/*/release
+extensions/externals/build/vs2013win32/intermediate/*/*/debug
+*.sdf
+samples/bin/vs2013x86
+extensions/lib/vs2013x86
+extensions/externals/lib/vs2012x86/cg4cppD.lib
+extensions/externals/lib/vs2013x86/cg4cppD.lib
+extensions/externals/lib/vs2013x86/freetypeD.lib
+extensions/externals/lib/vs2013x86/HalfD.lib
+extensions/externals/lib/vs2013x86/harfbuzzD.lib
+extensions/externals/lib/vs2013x86/R3D.lib
