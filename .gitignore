@@ -12,3 +12,5 @@ extensions/externals/lib/vs2013x86/harfbuzzD.lib
 extensions/externals/lib/vs2013x86/R3D.lib
 *.opensdf
 samples/build/vs2013win32/intermediate
+*.user
+*.suo
